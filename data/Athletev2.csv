@@ -1,0 +1,801 @@
+Name,Year,Date,Comp,Age,Event,Location,Place,Round,Time,Time_sec,Partner
+AS,2013,4/4/13,Nationals,U14,MK1 1000m,Perth,4,Final,04:54.3,294.3,
+AS,2013,6/4/13,Nationals,U14,MK1 200m,Perth,4,Final,00:52.4,52.4,
+AS,2013,7/4/13,Nationals,U14,MK1 500m,Perth,4,Final,02:24.2,144.2,
+AS,2013,4/4/13,Nationals,U14,MK2 1000m,Perth,1,Final,04:30.1,270.1,Jakob Hammond
+AS,2013,6/4/13,Nationals,U14,MK2 200m,Perth,1,Final,00:49.1,49.1,Jakob Hammond
+AS,2013,7/4/13,Nationals,U14,MK2 500m,Perth,2,Final,02:10.5,130.5,Jakob Hammond
+AS,2014,30/3/14,Nationals,U16,MK1 1000m,Adelaide,9,Final,04:17.1,257.1,
+AS,2014,30/3/14,Nationals,U16,MK1 200m,Adelaide,6,B Final,00:48.8,48.8,
+AS,2014,29/3/14,Nationals,U16,MK1 200m,Adelaide,7,Semi-Final,00:46.8,46.8,
+AS,2014,30/3/14,Nationals,U16,MK1 500m,Adelaide,9,Final,02:12.8,132.8,
+AS,2014,29/3/14,Nationals,U16,MK1 500m,Adelaide,2,Semi-Final,02:02.3,122.3,
+AS,2014,30/3/14,Nationals,U16,MK2 1000m,Adelaide,6,Final,04:01.8,241.8,Jakob Hammond
+AS,2014,28/3/14,Nationals,U16,MK2 1000m,Adelaide,2,Heat,03:58.8,238.8,Jakob Hammond
+AS,2014,30/3/14,Nationals,U16,MK2 200m,Adelaide,5,Final,00:45.1,45.1,Jakob Hammond
+AS,2014,29/3/14,Nationals,U16,MK2 200m,Adelaide,1,Semi-Final,00:41.2,41.2,Jakob Hammond
+AS,2014,30/3/14,Nationals,U16,MK2 500m,Adelaide,3,Final,01:49.0,109,Jakob Hammond
+AS,2015,15/3/15,Nationals,U16,MK1 1000m,SIRC,3,Final,04:01.2,241.2,
+AS,2015,15/3/15,Nationals,U16,MK1 200m,SIRC,1,B Final,00:44.5,44.5,
+AS,2015,15/3/15,Nationals,U16,MK1 500m,SIRC,4,Final,01:55.2,115.2,
+AS,2015,15/3/15,Nationals,U16,MK2 1000m,SIRC,1,Final,03:40.0,220,Jakob Hammond
+AS,2015,15/3/15,Nationals,U16,MK2 200m,SIRC,1,Final,00:39.9,39.9,Jakob Hammond
+AS,2015,15/3/15,Nationals,U16,MK2 500m,SIRC,2,Final,01:45.5,105.5,Jakob Hammond
+AS,2016,6/3/16,Nationals,U18,MK1 1000m,Perth,8,Final,03:50.3,230.3,
+AS,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,3,Semi-Final,03:47.4,227.4,
+AS,2016,6/3/16,Nationals,U18,MK1 200m,Perth,6,B Final,00:40.4,40.4,
+AS,2016,6/3/16,Nationals,U18,MK1 500m,Perth,8,Final,01:47.1,107.1,
+AS,2016,6/3/16,Nationals,U18,MK2 1000m,Perth,2,Final,03:23.3,203.3,Jakob Hammond
+AS,2016,6/3/16,Nationals,U18,MK2 200m,Perth,4,Final,00:39.4,39.4,Jakob Hammond
+AS,2016,4/3/16,Nationals,U18,MK2 200m,Perth,3,Heat,00:36.9,36.9,Jakob Hammond
+AS,2016,6/3/16,Nationals,U18,MK2 500m,Perth,2,Final,01:42.7,102.7,Jakob Hammond
+AS,2017,10/3/17,Nationals,U18,MK1 1000m,SIRC,7,Final,03:53.5,233.5,
+AS,2017,10/3/17,Nationals,U18,MK1 200m,SIRC,9,Final,00:40.8,40.8,
+AS,2017,10/3/17,Nationals,U18,MK1 500m,SIRC,1,B Final,01:53.1,113.1,
+AS,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,4,Semi-Final,01:49.8,109.8,
+AS,2017,26/7/17,World Champs,U18,MK1 500m,Romania,8,Semi-Final,01:59.4,119.4,
+AS,2017,10/3/17,Nationals,U18,MK2 1000m,SIRC,1,Final,03:33.2,213.2,Jakob Hammond
+AS,2017,25/7/17,World Champs,U18,MK2 1000m,Romania,4,Heat,03:38.1,218.1,George Rugless
+AS,2017,10/3/17,Nationals,U18,MK2 200m,SIRC,3,Final,00:37.2,37.2,Jakob Hammond
+AS,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,1,Final,01:41.8,101.8,Jakob Hammond
+AS,2018,9/3/18,Nationals,U23,MK1 1000m,SIRC,9,Semi-Final,04:06.5,246.5,
+AS,2018,9/3/18,Nationals,U23,MK1 200m,SIRC,8,Semi-Final,00:38.9,38.9,
+AS,2018,6/3/18,Nationals,U23,MK1 500m,SIRC,6,Heat,01:52.5,112.5,
+AS,2018,9/3/18,Nationals,U23,MK1 500m,SIRC,7,Semi-Final,01:54.5,114.5,
+AS,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,4,B Final,01:38.4,98.4,Reece Bacchus
+AS,2019,10/3/19,Nationals,U23,MK1 1000m,Perth,5,C Final,03:47.6,227.6,
+AS,2019,10/3/19,Nationals,U23,MK1 500m,Perth,7,C Final,01:47.3,107.3,
+AS,2019,9/3/19,Nationals,U23,MK1 500m,Perth,6,Semi-Final,01:43.8,103.8,
+AS,2019,10/3/19,Nationals,U23,MK2 1000m,Perth,8,Final,03:28.2,208.2,Owen McLeod
+AS,2019,10/3/19,Nationals,U23,MK2 500m,Perth,4,B Final,01:36.9,96.9,Reece Bacchus
+AV,2020,16/3/20,Nationals,U18,WK1 200m,SIRC,2,Final,00:43.8,43.8,
+AV,2020,16/3/20,Nationals,U18,WK1 500m,SIRC,8,Final,02:08.5,128.5,
+AV,2020,16/3/20,Nationals,u18,WK2 500m,SIRC,1,Final,01:53.9,113.9,Sascha Taurins
+BC,2016,6/3/16,Nationals,U16,MK1 1000m,Perth,2,Final,03:52.7,232.7,
+BC,2016,6/3/16,Nationals,U16,MK1 200m,Perth,3,B Final,00:44.4,44.4,
+BC,2016,5/3/16,Nationals,U16,MK1 200m,Perth,5,Semi-Final,00:43.6,43.6,
+BC,2016,6/3/16,Nationals,U16,MK1 500m,Perth,5,Final,01:59.4,119.4,
+BC,2016,4/3/16,Nationals,U16,MK1 500m,Perth,1,Heat,01:53.9,113.9,
+BC,2016,6/3/16,Nationals,U16,MK2 1000m,Perth,1,Final,03:35.7,215.7,Harrison Armstrong
+BC,2016,6/3/16,Nationals,U16,MK2 200m,Perth,3,Final,00:39.4,39.4,Harrison Armstrong
+BC,2016,6/3/16,Nationals,U16,MK2 500m,Perth,2,Final,01:52.1,112.1,Harrison Armstrong
+BC,2016,5/3/16,Nationals,U16,MK2 500m,Perth,2,Semi-Final,01:45.7,105.7,Harrison Armstrong
+BC,2017,10/3/17,Nationals,U18,MK1 1000m,SIRC,7,B Final,04:06.6,246.6,
+BC,2017,5/3/17,Nationals,U18,MK1 1000m,SIRC,3,Heat,04:03.5,243.5,
+BC,2017,5/3/17,Nationals,U18,MK1 500m,SIRC,5,Heat,01:57.4,117.4,
+BC,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,9,Semi-Final,02:03.6,123.6,
+BC,2017,10/3/17,Nationals,U18,MK2 1000m,SIRC,4,Final,03:40.1,220.1,Harrison Armstrong
+BC,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,4,Final,01:46.2,106.2,Harrison Armstrong
+BC,2017,5/3/17,Nationals,U18,MK2 500m,SIRC,1,Heat,01:43.5,103.5,Harrison Armstrong
+BC,2018,10/3/18,Nationals,U18,MK1 1000m,SIRC,9,Final,03:58.4,238.4,
+BC,2018,9/3/18,Nationals,U18,MK1 1000m,SIRC,2,Semi-Final,03:54.2,234.2,
+BC,2018,10/3/18,Nationals,U18,MK1 200m,SIRC,2,Final,00:39.5,39.5,
+BC,2018,9/3/18,Nationals,U18,MK1 200m,SIRC,3,Semi-Final,00:39.1,39.1,
+BC,2018,10/3/18,Nationals,U18,MK1 500m,SIRC,5,Final,01:50.8,110.8,
+BC,2018,9/3/18,Nationals,U18,MK1 500m,SIRC,3,Semi-Final,01:49.9,109.9,
+BC,2018,26/7/18,World Champs,U18,MK2 1000m,Bulgaria,1,B Final,03:24.0,204,Harrison Armstrong
+BC,2018,10/3/18,Nationals,U18,MK2 1000m,SIRC,1,Final,03:28.6,208.6,Harrison Armstrong
+BC,2018,25/7/18,World Champs,U18,MK2 1000m,Bulgaria,4,Semi-Final,03:22.6,202.6,Harrison Armstrong
+BC,2018,10/3/18,Nationals,U18,MK2 500m,SIRC,1,Final,01:37.3,97.3,Harrison Armstrong
+BC,2019,6/3/19,Nationals,U23,MK1 1000m,Perth,4,Heat,03:48.2,228.2,
+BC,2019,9/3/19,Nationals,U23,MK1 1000m,Perth,8,Semi-Final,04:02.8,242.8,
+BC,2019,6/3/19,Nationals,U23,MK1 500m,Perth,5,Heat,01:47.5,107.5,
+BC,2019,10/3/19,Nationals,U23,MK2 1000m,Perth,4,Final,03:19.6,199.6,Jakob Hammond
+BC,2019,10/3/19,Nationals,U23,MK2 500m,Perth,1,B Final,01:34.4,94.4,Jakob Hammond
+BC,2020,15/3/20,Nationals,U23,MK1 1000m,SIRC,9,Semi-Final,03:59.4,239.4,
+BC,2020,16/3/20,Nationals,U23,MK1 500m,SIRC,6,C Final,01:51.9,111.9,
+BC,2020,13/3/20,Nationals,U23,MK2 500m,SIRC,5,Heat,01:41.1,101.1,Tinus Koekemoer
+BM,2012,15/3/12,Nationals,U18,MK1 1000m,SIRC,2,B Final,03:55.0,235,
+BM,2012,18/3/12,Nationals,U18,MK1 200m,SIRC,4,Final,00:39.2,39.2,
+BM,2012,16/3/12,Nationals,U18,MK1 500m,SIRC,4,Final,01:49.9,109.9,
+BM,2012,14/3/12,Nationals,U18,MK2 1000m,SIRC,2,Final,03:33.9,213.9,Fraser McTavish
+BM,2012,17/3/12,Nationals,U18,MK2 200m,SIRC,1,Final,00:36.6,36.6,Fraser McTavish
+BM,2012,16/3/12,Nationals,U18,MK2 500m,Perth,2,Final,01:41.5,101.5,Fraser McTavish
+BM,2013,3/4/13,Nationals,Open,MK1 1000m,Perth,8,Heat,03:58.9,238.9,
+BM,2013,6/4/13,Nationals,Open,MK1 200m,Perth,6,B Final,00:39.7,39.7,
+BM,2013,5/4/13,Nationals,Open,MK1 200m,Perth,3,Semi-Final,00:36.5,36.5,
+BM,2013,6/4/13,Nationals,Open,MK2 200m,Perth,3,B Final,00:37.0,37,Scott Smith
+BM,2013,5/4/13,Nationals,Open,MK2 200m,Perth,3,Heat,00:32.8,32.8,Scott Smith
+BM,2013,7/4/13,Nationals,Open,MK2 500m,Perth,7,Final,01:39.7,99.7,Scott Smith
+BM,2015,15/3/15,Nationals,Open,MK1 200m,SIRC,8,Final,00:36.0,36,
+BM,2015,15/3/15,Nationals,Open,MK2 200m,SIRC,3,Final,00:33.1,33.1,Callum Dunn
+BM,2016,6/3/16,Nationals,Open,MK1 200m,Perth,3,B Final,00:36.8,36.8,
+BM,2016,5/3/16,Nationals,Open,MK1 200m,Perth,3,Semi-Final,00:36.5,36.5,
+BM,2016,6/3/16,Nationals,Open,MK2 200m,Perth,3,Final,00:34.5,34.5,Callum Dunn
+BM,2016,4/3/16,Nationals,Open,MK2 200m,Perth,2,Heat,00:32.7,32.7,Callum Dunn
+BM,2017,5/3/17,Nationals,Open,MK1 200m,SIRC,1,Heat,00:38.0,38,
+BM,2017,10/3/17,Nationals,Open,MK2 200m,SIRC,3,Final,00:34.5,34.5,Mark Stowe
+DG,2012,17/3/12,Nationals,U18,WK1 200m,SIRC,4,Final,00:47.5,47.5,
+DG,2012,16/3/12,Nationals,U18,WK1 500m,SIRC,2,Final,02:04.1,124.1,
+DG,2012,16/3/12,Nationals,U18,WK2 500m,SIRC,2,Final,01:52.9,112.9,Mackenzie Labine Romain
+DG,2013,7/4/13,Nationals,U18,WK1 200m,Perth,6,Final,00:47.4,47.4,
+DG,2013,6/4/13,Nationals,U18,WK1 200m,Perth,2,Semi-Final,00:45.0,45,
+DG,2013,7/4/13,Nationals,U18,WK1 500m,Perth,2,Final,02:12.3,132.3,
+DG,2013,6/4/13,Nationals,U18,WK1 500m,Perth,1,Semi-Final,02:09.2,129.2,
+DG,2013,7/4/13,Nationals,U18,WK2 200m,Perth,3,Final,00:44.0,44,Mackenzie Labine Romain
+DG,2013,5/4/13,Nationals,U18,WK2 200m,Perth,3,Heat,00:42.5,42.5,Mackenzie Labine Romain
+DG,2013,7/4/13,Nationals,U18,WK2 500m,Perth,3,Final,02:01.1,121.1,Mackenzie Labine Romain
+DG,2014,30/3/14,Nationals,U23,WK1 200m,Adelaide,7,B Final,00:48.2,48.2,
+DG,2014,29/3/14,Nationals,U23,WK1 200m,Adelaide,7,Semi-Final,00:47.6,47.6,
+DG,2014,30/3/14,Nationals,U23,WK1 500m,Adelaide,9,B Final,02:08.2,128.2,
+DG,2014,29/3/14,Nationals,U23,WK1 500m,Adelaide,8,Semi-Final,02:07.8,127.8,
+DG,2014,30/3/14,Nationals,U23,WK2 200m,Adelaide,9,Final,00:47.5,47.5,Jaymee-Lee Martin
+DG,2014,30/3/14,Nationals,U23,WK2 500m,Adelaide,9,Final,01:59.5,119.5,Jaymee-Lee Martin
+DG,2015,15/3/15,Nationals,U23,WK1 200m,SIRC,9,B Final,00:47.6,47.6,
+DG,2015,14/3/15,Nationals,U23,WK1 200m,SIRC,5,Semi-Final,00:45.5,45.5,
+DG,2015,13/3/15,Nationals,U23,WK1 500m,SIRC,7,Heat,02:04.1,124.1,
+DG,2015,14/3/15,Nationals,U23,WK1 500m,SIRC,9,Semi-Final,02:07.3,127.3,
+DG,2016,6/3/16,Nationals,U23,WK1 200m,Perth,2,B Final,00:43.3,43.3,
+DG,2016,4/3/16,Nationals,U23,WK1 500m,Perth,6,Heat,01:57.3,117.3,
+DG,2016,6/3/16,Nationals,U23,WK2 200m,Perth,5,Final,00:41.9,41.9,Rachel Duncan
+DG,2016,6/3/16,Nationals,U23,WK2 500m,Perth,4,Final,01:45.7,105.7,Rachel Duncan
+DG,2016,4/3/16,Nationals,U23,WK2 500m,Perth,3,Heat,01:51.2,111.2,Rachel Duncan
+DG,2017,10/3/17,Nationals,U23,WK1 200m,SIRC,1,B Final,00:43.7,43.7,
+DG,2017,10/3/17,Nationals,U23,WK1 500m,SIRC,11,Final,02:07.3,127.3,
+DG,2017,9/3/17,Nationals,U23,WK1 500m,SIRC,3,Semi-Final,02:04.6,124.6,
+DG,2018,10/3/18,Nationals,U23,WK1 200m,SIRC,2,B Final,00:43.1,43.1,
+DG,2018,10/3/18,Nationals,U23,WK1 500m,SIRC,8,B Final,02:06.7,126.7,
+DG,2018,6/3/18,Nationals,U23,WK1 500m,SIRC,6,Heat,02:04.4,124.4,
+DG,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,7,Final,01:57.6,117.6,Morgan Bordhurst-Hill
+DG,2018,6/3/18,Nationals,U23,WK2 500m,SIRC,4,Heat,02:00.7,120.7,Morgan Bordhurst-Hill
+DG,2018,9/3/18,Nationals,U23,WK2 500m,SIRC,2,Semi-Final,02:01.0,121,Morgan Bordhurst-Hill
+DG,2019,10/3/19,Nationals,Open,WK1 200m,Perth,2,B Final,00:44.8,44.8,
+DG,2019,10/3/19,Nationals,Open,WK1 500m,Perth,8,B Final,02:04.8,124.8,
+DG,2019,10/3/19,Nationals,Open,WK2 200m,Perth,7,Final,00:45.8,45.8,Samantha Blanchard
+DG,2019,6/3/19,Nationals,Open,WK2 500m,Perth,5,Heat,02:01.6,121.6,Samantha Blanchard
+DL,2017,6/3/17,Nationals,U18,MK1 500m,SIRC,2,Heat,01:55.6,115.58,
+DL,2017,6/3/17,Nationals,U18,MK1 500m,SIRC,4,Semi-Final,01:52.1,112.15,
+DL,2017,7/3/17,Nationals,U18,MK1 500m,SIRC,2,B Final,01:56.3,116.28,
+DL,2017,7/3/17,Nationals,U18,MK1 200m,SIRC,1,Heat,00:40.7,40.69,
+DL,2017,8/3/17,Nationals,U18,MK1 200m,SIRC,2,Semi-Final,00:40.4,40.42,
+DL,2017,8/3/17,Nationals,U18,MK1 200m,SIRC,7,Final,00:39.6,39.61,
+DL,2017,9/3/17,Nationals,U18,MK4 200m,SIRC,3,Final,00:34.3,34.33,"Lachlan Tame, Robert McIntyre, Harrison Armstrong"
+DL,2017,6/3/17,Nationals,Open,PC MK1 200m,SIRC,2,Final,00:42.8,42.83,
+DL,2017,7/3/17,Nationals,Open,PC MK1 200m,SIRC,2,Final,00:41.8,41.8,
+DL,2017,9/3/17,Nationals,Open,PC MK1 500m,SIRC,2,Final,02:02.3,122.25,
+DL,2017,8/3/17,Nationals,Open,PC MK1 1000m,SIRC,2,Final,04:43.5,283.49,
+DL,2018,7/3/18,Nationals,Open,MK1 200m,SIRC,6,Heat,00:39.6,39.62,
+DL,2018,8/3/18,Nationals,Open,MK1 200m,SIRC,9,Semi-Final,00:39.1,39.12,
+DL,2018,10/3/18,Nationals,Open,MK2 200m,SIRC,3,Final,00:35.7,35.75,Robert McIntyre
+DL,2018,6/3/18,Nationals,Open,PC MK1 200m,SIRC,2,SD,00:50.5,50.5,
+DL,2018,6/3/18,Nationals,Open,PC MK1 200m,SIRC,2,SD,00:42.9,42.93,
+DL,2018,7/3/18,Nationals,Open,PC MK1 200m,SIRC,1,Final,00:41.3,41.35,
+DL,2019,6/3/19,Nationals,Open,MK1 200m,Perth,7,Heat,00:44.1,44.09,
+DL,2019,7/3/19,Nationals,Open,PC MK1 200m,Perth,1,Final,00:39.7,39.7,
+DL,2019,6/3/19,Nationals,Open,PC MK1 200m,Perth,1,SD,00:42.7,42.69,
+DL,2020,12/3/20,Nationals,Open,PC MK1 200m,SIRC,1,SD,00:41.6,41.57,
+DL,2020,11/3/20,Nationals,Open,MK1 200m,SIRC,6,Heat,00:40.4,40.4,
+DL,2020,12/3/20,Nationals,Open,MK1 200m,SIRC,9,Semi-Final,00:40.2,40.21,
+DL,2020,12/3/20,Nationals,Open,PC MK1 200m,SIRC,1,Final,00:39.7,39.73,
+DL,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,6,Heat,04:19.8,259.81,
+DL,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,8,Semi-Final,04:12.6,252.61,
+DL,2016,5/3/16,Nationals,U18,MK1 500m,Perth,6,Heat,02:02.3,122.34,
+DL,2016,5/3/16,Nationals,U18,MK1 500m,Perth,6,Semi-Final,01:54.7,114.67,
+DL,2016,4/3/16,Nationals,U18,MK1 200m,Perth,4,Heat,00:41.6,41.55,
+DL,2016,4/3/16,Nationals,U18,MK1 200m,Perth,7,Semi-Final,00:41.1,41.06,
+DL,2016,3/3/16,Nationals,Open,PC MK1 200m,Perth,2,Final,00:41.1,41.11,
+DL,2016,5/3/16,Nationals,Open,PC MK1 500m,Perth,2,Final,02:01.1,121.12,
+DL,2016,4/3/16,Nationals,Open,PC MK1 1000m,Perth,2,Final,04:10.2,250.19,
+DL,2015,11/3/16,Nationals,Open,PC MK1 200m,SIRC,2,Final,00:44.9,44.86,
+DL,2015,13/3/16,Nationals,Open,PC MK1 500m,SIRC,3,Final,02:13.2,133.23,
+DL,2015,14/3/16,Nationals,Open,PC MK1 1000m,SIRC,3,Final,04:44.2,284.25,
+EB,2015,15/3/15,Nationals,U18,WK1 200m,SIRC,1,Final,00:44.5,44.5,
+EB,2015,15/3/15,Nationals,U18,WK1 500m,SIRC,2,Final,02:02.9,122.9,
+EB,2015,13/3/15,Nationals,U18,WK1 500m,SIRC,1,Heat,01:59.2,119.2,
+EB,2015,15/3/15,Nationals,U18,WK2 500m,SIRC,8,Final,02:02.3,122.3,Chloe Travers
+EB,2015,13/3/15,Nationals,U18,WK2 500m,SIRC,3,Heat,02:00.7,120.7,Chloe Travers
+EB,2016,6/3/16,Nationals,U18,WK1 200m,Perth,1,Final,00:42.4,42.4,
+EB,2016,28/7/16,World Champs,U18,WK1 200m,Belarus,4,Final,00:42.7,42.7,
+EB,2016,26/7/16,World Champs,U18,WK1 200m,Belarus,2,Heat,00:42.4,42.4,
+EB,2016,5/3/16,Nationals,U18,WK1 200m,Perth,1,Semi-Final,00:42.0,42,
+EB,2016,6/3/16,Nationals,U18,WK1 500m,Perth,1,Final,01:53.9,113.9,
+EB,2016,26/7/16,World Champs,U18,WK1 500m,Belarus,2,Heat,02:03.1,123.1,
+EB,2016,6/3/16,Nationals,U18,WK2 200m,Perth,1,Final,00:42.4,42.4,Jayde Bagnall
+EB,2016,6/3/16,Nationals,U18,WK2 500m,Perth,2,Final,01:51.4,111.4,Jayde Bagnall
+EB,2017,10/3/17,Nationals,U23,WK1 200m,SIRC,7,Final,00:44.6,44.6,
+EB,2017,5/3/17,Nationals,U23,WK1 200m,SIRC,2,Heat,00:43.2,43.2,
+EB,2017,10/3/17,Nationals,U23,WK1 500m,SIRC,10,Final,02:02.5,122.5,
+EB,2017,10/3/17,Nationals,U23,WK2 200m,SIRC,3,Final,00:41.0,41,Cat McArthur
+EB,2017,5/3/17,Nationals,U23,WK2 200m,SIRC,2,Heat,00:40.9,40.9,Cat McArthur
+EB,2017,10/3/17,Nationals,U23,WK2 500m,SIRC,2,Final,01:49.5,109.5,Cat McArthur
+EB,2018,10/3/18,Nationals,U23,WK1 200m,SIRC,7,Final,00:41.7,41.7,
+EB,2018,10/3/18,Nationals,U23,WK1 500m,SIRC,3,B Final,02:00.1,120.1,
+EB,2018,6/3/18,Nationals,U23,WK1 500m,SIRC,4,Heat,01:59.0,119,
+EB,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,5,Final,01:50.7,110.7,Caitlin Burt-Poloai
+EB,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,4,Final,01:52.7,112.7,Caitlin Burt-Poloai
+EB,2019,10/3/19,Nationals,U23,WK1 200m,Perth,4,Final,00:41.4,41.4,
+EB,2019,10/3/19,Nationals,U23,WK1 500m,Perth,6,Final,01:53.3,113.3,
+EB,2019,10/3/19,Nationals,U23,WK2 200m,Perth,2,Final,00:39.3,39.3,Shannon Reynolds
+EB,2019,6/3/19,Nationals,U23,WK2 200m,Perth,1,Heat,00:38.8,38.8,Shannon Reynolds
+EB,2019,10/3/19,Nationals,U23,WK2 500m,Perth,4,Final,01:46.5,106.5,Shannon Reynolds
+EB,2019,9/3/19,Nationals,U23,WK2 500m,Perth,1,Semi-Final,01:45.0,105,Shannon Reynolds
+EB,2020,16/3/20,Nationals,U23,WK1 200m,SIRC,3,Final,00:41.3,41.3,
+EB,2020,16/3/20,Nationals,U23,WK1 500m,SIRC,9,Final,02:00.8,120.8,
+EB,2020,16/3/20,Nationals,U23,WK2 200m,SIRC,3,Final,00:40.2,40.2,Kailey Harlen
+EB,2020,16/3/20,Nationals,U23,WK2 500m,SIRC,4,Final,01:46.2,106.2,Kailey Harlen
+EN,2015,15/3/15,Nationals,U16,MK1 1000m,SIRC,6,Final,04:07.4,247.4,
+EN,2015,15/3/15,Nationals,U16,MK1 200m,SIRC,5,Final,00:43.2,43.2,
+EN,2015,15/3/15,Nationals,U16,MK1 500m,SIRC,8,Final,01:57.5,117.5,
+EN,2015,15/3/15,Nationals,U16,MK2 1000m,SIRC,3,Final,03:50.3,230.3,Liam Farrell
+EN,2015,15/3/15,Nationals,U16,MK2 200m,SIRC,3,Final,00:41.0,41,Liam Farrell
+EN,2015,15/3/15,Nationals,U16,MK2 500m,SIRC,4,Final,01:53.6,113.6,Liam Farrell
+EN,2016,6/3/16,Nationals,U18,MK1 1000m,Perth,3,B Final,03:53.4,233.4,
+EN,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,4,Semi-Final,03:53.0,233,
+EN,2016,28/7/16,World Champs,U18,MK1 200m,Belarus,7,C Final,00:39.5,39.5,
+EN,2016,6/3/16,Nationals,U18,MK1 200m,Perth,2,Final,00:38.6,38.6,
+EN,2016,27/7/16,World Champs,U18,MK1 200m,Belarus,5,Heat,00:38.6,38.6,
+EN,2016,6/3/16,Nationals,U18,MK2 1000m,Perth,7,Final,03:37.2,217.2,Liam Farrell
+EN,2016,4/3/16,Nationals,U18,MK2 1000m,Perth,4,Heat,03:32.7,212.7,Liam Farrell
+EN,2016,6/3/16,Nationals,U18,MK2 200m,Perth,7,Final,00:39.6,39.6,Liam Farrell
+EN,2017,10/3/17,Nationals,U18,MK1 200m,SIRC,1,Final,00:37.6,37.6,
+EN,2017,10/3/17,Nationals,U18,MK1 500m,SIRC,5,Final,01:53.0,113,
+EN,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,3,Semi-Final,01:48.1,108.1,
+EN,2017,10/3/17,Nationals,U18,MK2 200m,SIRC,2,Final,00:36.8,36.8,Dodge Newton
+EN,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,2,Final,01:42.8,102.8,Liam Farrell
+EN,2018,10/3/18,Nationals,U23,MK1 200m,SIRC,5,Final,00:36.1,36.1,
+EN,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,6,B Final,01:40.5,100.5,Liam Farrell
+EN,2018,6/3/18,Nationals,U23,MK2 500m,SIRC,4,Heat,01:40.1,100.1,Liam Farrell
+EN,2019,10/3/19,Nationals,U23,MK1 200m,Perth,4,Final,00:36.9,36.9,
+EN,2019,9/3/19,Nationals,U23,MK1 500m,Perth,7,Semi-Final,01:46.1,106.1,
+EN,2019,10/3/19,Nationals,U23,MK2 200m,Perth,7,Final,00:36.7,36.7,Nick Dawe
+EN,2019,9/3/19,Nationals,U23,MK2 200m,Perth,5,Semi-Final,00:35.1,35.1,Nick Dawe
+EN,2019,10/3/19,Nationals,U23,MK2 500m,Perth,7,B Final,01:39.4,99.4,Nick Dawe
+EN,2020,16/3/20,Nationals,U23,MK1 200m,SIRC,2,Final,00:35.8,35.8,
+EN,2020,16/3/20,Nationals,U23,MK1 500m,SIRC,7,B Final,01:47.0,107,
+EN,2020,15/3/20,Nationals,U23,MK2 1000m,SIRC,4,Semi-Final,03:33.0,213,Nick Dawe
+EN,2020,16/3/20,Nationals,U23,MK2 200m,SIRC,4,Final,00:35.1,35.1,Nick Dawe
+FA,2020,16/3/20,Nationals,U18,MK1 1000m,SIRC,1,Final,03:45.3,225.3,
+FA,2020,16/3/20,Nationals,U18,MK1 200m,SIRC,2,Final,00:38.5,38.5,
+FA,2020,16/3/20,Nationals,U18,MK1 500m,SIRC,1,Final,01:46.1,106.1,
+FA,2020,16/3/20,Nationals,U18,MK2 1000m,SIRC,1,Final,03:30.7,210.7,Jarrah Sheppard
+FA,2020,16/3/20,Nationals,U18,MK2 200m,SIRC,1,Final,00:35.9,35.9,Jarrah Sheppard
+FA,2020,16/3/20,Nationals,U18,MK2 500m,SIRC,1,Final,01:39.8,99.8,Jarrah Sheppard
+FC,2020,16/3/20,Nationals,U23,MK1 1000m,SIRC,4,B Final,03:47.5,227.5,
+FC,2020,16/3/20,Nationals,U23,MK1 200m,SIRC,7,Final,00:37.6,37.6,
+FC,2020,16/3/20,Nationals,U23,MK1 500m,SIRC,8,B Final,01:47.1,107.1,
+FC,2020,15/3/20,Nationals,U23,MK2 1000m,SIRC,7,Semi-Final,03:37.8,217.8,Sam Hutchinson
+GS,2020,16/3/20,Nationals,U23,WK1 200m,SIRC,4,Final,00:42.4,42.4,
+GS,2020,16/3/20,Nationals,U23,WK1 500m,SIRC,4,B Final,02:00.7,120.7,
+GS,2020,16/3/20,Nationals,U23,WK2 200m,SIRC,4,Final,00:42.4,42.4,Jemma Smith
+GS,2020,16/3/20,Nationals,U23,WK2 500m,SIRC,7,Final,01:51.7,111.7,Jemma Smith
+HM,2014,30/3/14,Nationals,Open,WK1 200m,Adelaide,1,B Final,00:46.9,46.9,
+HM,2014,29/3/14,Nationals,Open,WK1 200m,Adelaide,4,Semi-Final,00:46.6,46.6,
+HM,2014,30/3/14,Nationals,Open,WK1 500m,Adelaide,9,Final,02:04.2,124.2,
+HM,2014,29/3/14,Nationals,Open,WK1 500m,Adelaide,3,Semi-Final,02:02.3,122.3,
+HM,2014,30/3/14,Nationals,Open,WK2 200m,Adelaide,8,Final,00:46.7,46.7,Allison Bryant
+HM,2014,30/3/14,Nationals,Open,WK2 500m,Adelaide,6,Final,01:54.4,114.4,Allison Bryant
+HM,2015,15/3/15,Nationals,Open,WK1 500m,SIRC,8,Final,01:55.3,115.3,
+HM,2015,15/3/15,Nationals,Open,WK2 500m,SIRC,3,Final,01:47.7,107.7,Cat McArthur
+HM,2016,6/3/16,Nationals,Open,WK1 200m,Perth,5,Final,00:42.6,42.6,
+HM,2016,6/3/16,Nationals,Open,WK1 500m,Perth,7,Final,01:55.7,115.7,
+HM,2016,4/3/16,Nationals,Open,WK1 500m,Perth,3,Heat,01:54.8,114.8,
+HM,2017,10/3/17,Nationals,Open,WK1 200m,SIRC,6,Final,00:44.4,44.4,
+HM,2017,10/3/17,Nationals,Open,WK1 500m,SIRC,1,B Final,02:03.3,123.3,
+HM,2017,10/3/17,Nationals,Open,WK2 500m,SIRC,3,Final,01:49.9,109.9,Jo Brigden-Jones
+JB,2012,18/3/12,Nationals,Open,WK1 200m,SIRC,3,Final,00:41.9,41.9,
+JB,2012,16/3/12,Nationals,Open,WK1 500m,SIRC,7,Final,01:55.0,115,
+JB,2012,18/3/12,Nationals,Open,WK2 200m,SIRC,2,Final,00:39.3,39.3,Hannah Davis
+JB,2013,6/4/13,Nationals,Open,WK1 200m,Perth,1,Final,00:41.9,41.9,
+JB,2013,5/4/13,Nationals,Open,WK1 200m,Perth,1,Semi-Final,00:41.0,41,
+JB,2013,7/4/13,Nationals,Open,WK1 500m,Perth,3,Final,02:02.1,122.1,
+JB,2013,7/4/13,Nationals,Open,WK2 200m,Perth,1,Final,00:40.5,40.5,Hannah Davis
+JB,2013,7/4/13,Nationals,Open,WK2 500m,Perth,2,Final,01:54.3,114.3,Hannah Davis
+JB,2014,6/8/14,World Champs,Open,WK1 200m,Russia,6,B Final,00:40.8,40.8,
+JB,2014,30/3/14,Nationals,Open,WK1 200m,Adelaide,1,Final,00:42.9,42.9,
+JB,2014,28/3/14,Nationals,Open,WK1 200m,Adelaide,1,Heat,00:42.4,42.4,
+JB,2014,5/8/14,World Champs,Open,WK1 200m,Russia,4,Semi-Final,00:40.0,40,
+JB,2014,30/3/14,Nationals,Open,WK1 500m,Adelaide,3,Final,01:56.7,116.7,
+JB,2014,30/3/14,Nationals,Open,WK2 200m,Adelaide,1,Final,00:42.1,42.1,Hannah Davis
+JB,2014,6/8/14,World Champs,Open,WK2 500m,Russia,7,Final,01:42.9,102.9,Naomi Flood
+JB,2014,30/3/14,Nationals,Open,WK2 500m,Adelaide,1,Final,01:45.9,105.9,Naomi Flood
+JB,2014,5/8/14,World Champs,Open,WK2 500m,Russia,3,Semi-Final,01:41.5,101.5,Naomi Flood
+JB,2015,15/3/15,Nationals,Open,WK1 200m,SIRC,2,Final,00:40.9,40.9,
+JB,2015,15/3/15,Nationals,Open,WK1 500m,SIRC,4,Final,01:51.3,111.3,
+JB,2015,15/3/15,Nationals,Open,WK2 200m,SIRC,1,Final,00:38.2,38.2,Alana Nicholls
+JB,2016,6/3/16,Nationals,Open,WK1 200m,Perth,1,Final,00:40.8,40.8,
+JB,2016,6/3/16,Nationals,Open,WK1 500m,Perth,2,Final,01:48.6,108.6,
+JB,2016,6/3/16,Nationals,Open,WK2 500m,Perth,2,Final,01:41.7,101.7,Naomi Flood
+JB,2016,4/3/16,Nationals,Open,WK2 500m,Perth,1,Heat,01:40.7,100.7,Naomi Flood
+JB,2017,23/8/17,World Champs,Open,WK1 200m,Czech Republic,8,B Final,00:42.0,42,
+JB,2017,10/3/17,Nationals,Open,WK1 200m,SIRC,2,Final,00:43.1,43.1,
+JB,2017,23/8/17,World Champs,Open,WK1 500m,Czech Republic,9,Final,01:54.2,114.2,
+JB,2017,10/3/17,Nationals,Open,WK1 500m,SIRC,2,Final,01:56.0,116,
+JB,2017,10/3/17,Nationals,Open,WK2 500m,SIRC,3,Final,01:49.9,109.9,Hannah Minogue
+JB,2018,10/3/18,Nationals,Open,WK1 200m,SIRC,2,Final,00:40.2,40.2,
+JB,2018,10/3/18,Nationals,Open,WK1 500m,SIRC,3,Final,01:53.8,113.8,
+JB,2018,6/3/18,Nationals,Open,WK1 500m,SIRC,1,Heat,01:52.2,112.2,
+JB,2018,23/8/18,World Champs,Open,WK2 200m,Portugal,8,Final,00:37.8,37.8,Jaime Roberts
+JB,2018,10/3/18,Nationals,Open,WK2 200m,SIRC,1,Final,00:38.2,38.2,Jaime Roberts
+JB,2018,10/3/18,Nationals,Open,WK2 500m,SIRC,2,Final,01:42.0,102,Jaime Roberts
+JB,2019,10/3/19,Nationals,Open,WK1 200m,Perth,2,Final,00:40.5,40.5,
+JB,2019,10/3/19,Nationals,Open,WK1 500m,Perth,3,Final,01:51.7,111.7,
+JB,2019,10/3/19,Nationals,Open,WK2 200m,Perth,1,Final,00:37.7,37.7,Jaime Roberts
+JB,2019,10/3/19,Nationals,Open,WK2 500m,Perth,2,Final,01:42.7,102.7,Jaime Roberts
+JB,2020,16/3/20,Nationals,Open,WK1 200m,SIRC,1,Final,00:39.8,39.8,
+JB,2020,16/3/20,Nationals,Open,WK1 500m,SIRC,2,Final,01:54.4,114.4,
+JB,2020,16/3/20,Nationals,Open,WK2 200m,SIRC,1,Final,00:38.9,38.9,Jaime Roberts
+JB,2020,16/3/20,Nationals,Open,WK2 500m,SIRC,2,Final,01:43.9,103.9,Jaime Roberts
+JH,2013,4/4/13,Nationals,U14,MK1 1000m,Perth,1,Final,04:25.0,265,
+JH,2013,6/4/13,Nationals,U14,MK1 200m,Perth,3,Final,00:49.0,49,
+JH,2013,7/4/13,Nationals,U14,MK1 500m,Perth,1,Final,02:12.5,132.5,
+JH,2013,4/4/13,Nationals,U14,MK2 1000m,Perth,1,Final,04:30.1,270.1,Angus Schmidt
+JH,2013,6/4/13,Nationals,U14,MK2 200m,Perth,1,Final,00:49.1,49.1,Jakob Hammond
+JH,2013,7/4/13,Nationals,U14,MK2 500m,Perth,2,Final,02:10.5,130.5,Angus Schmidt
+JH,2014,30/3/14,Nationals,U16,MK1 1000m,Adelaide,1,B Final,04:15.4,255.4,
+JH,2014,29/3/14,Nationals,U16,MK1 200m,Adelaide,5,Semi-Final,00:45.8,45.8,
+JH,2014,30/3/14,Nationals,U16,MK1 500m,Adelaide,2,B Final,02:07.9,127.9,
+JH,2014,29/3/14,Nationals,U16,MK1 500m,Adelaide,4,Semi-Final,02:05.4,125.4,
+JH,2014,30/3/14,Nationals,U16,MK2 1000m,Adelaide,6,Final,04:01.8,241.8,Angus Schmidt
+JH,2014,28/3/14,Nationals,U16,MK2 1000m,Adelaide,2,Heat,03:58.8,238.8,Angus Schmidt
+JH,2014,30/3/14,Nationals,U16,MK2 200m,Adelaide,5,Final,00:45.1,45.1,Angus Schmidt
+JH,2014,29/3/14,Nationals,U16,MK2 200m,Adelaide,1,Semi-Final,00:41.2,41.2,Angus Schmidt
+JH,2014,30/3/14,Nationals,U16,MK2 500m,Adelaide,3,Final,01:49.0,109,Angus Schmidt
+JH,2015,15/3/15,Nationals,U16,MK1 1000m,SIRC,1,Final,03:52.9,232.9,
+JH,2015,15/3/15,Nationals,U16,MK1 200m,SIRC,3,Final,00:42.3,42.3,
+JH,2015,15/3/15,Nationals,U16,MK2 1000m,SIRC,1,Final,03:40.0,220,Angus Schmidt
+JH,2015,15/3/15,Nationals,U16,MK2 200m,SIRC,1,Final,00:39.9,39.9,Angus Schmidt
+JH,2015,15/3/15,Nationals,U16,MK2 500m,SIRC,2,Final,01:45.5,105.5,Angus Schmidt
+JH,2016,6/3/16,Nationals,U18,MK1 1000m,Perth,4,Final,03:45.5,225.5,
+JH,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,2,Semi-Final,03:41.8,221.8,
+JH,2016,6/3/16,Nationals,U18,MK2 1000m,Perth,2,Final,03:23.3,203.3,Angus Schmidt
+JH,2016,26/7/16,World Champs,U18,MK2 1000m,Belarus,5,Heat,03:24.7,204.7,Joshua Jones-Rew
+JH,2016,27/7/16,World Champs,U18,MK2 1000m,Belarus,8,Semi-Final,03:21.8,201.8,Joshua Jones-Rew
+JH,2016,6/3/16,Nationals,U18,MK2 200m,Perth,4,Final,00:39.4,39.4,Angus Schmidt
+JH,2016,4/3/16,Nationals,U18,MK2 200m,Perth,3,Heat,00:36.9,36.9,Angus Schmidt
+JH,2016,6/3/16,Nationals,U18,MK2 500m,Perth,2,Final,01:42.7,102.7,Angus Schmidt
+JH,2017,27/7/17,World Champs,U18,MK1 1000m,Romania,2,B Final,03:52.7,232.7,
+JH,2017,10/3/17,Nationals,U18,MK1 1000m,SIRC,1,Final,03:45.7,225.7,
+JH,2017,26/7/17,World Champs,U18,MK1 1000m,Romania,4,Semi-Final,03:46.2,226.2,
+JH,2017,10/3/17,Nationals,U18,MK1 500m,SIRC,3,Final,01:50.6,110.6,
+JH,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,1,Semi-Final,01:47.2,107.2,
+JH,2017,10/3/17,Nationals,U18,MK2 1000m,SIRC,1,Final,03:33.2,213.2,Angus Schmidt
+JH,2017,10/3/17,Nationals,U18,MK2 200m,SIRC,3,Final,00:37.2,37.2,Angus Schmidt
+JH,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,1,Final,01:41.8,101.8,Angus Schmidt
+JH,2018,10/3/18,Nationals,U23,MK1 200m,SIRC,7,C Final,00:38.3,38.3,
+JH,2018,9/3/18,Nationals,U23,MK1 200m,SIRC,6,Semi-Final,00:37.5,37.5,
+JH,2018,10/3/18,Nationals,U23,MK1 500m,SIRC,2,B Final,01:48.9,108.9,
+JH,2018,9/3/18,Nationals,U23,MK1 500m,SIRC,5,Semi-Final,01:47.6,107.6,
+JH,2018,10/3/18,Nationals,U23,MK2 1000m,SIRC,7,Final,03:28.1,208.1,Jy Duffy
+JH,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,1,B Final,01:37.7,97.7,Jy Duffy
+JH,2019,10/3/19,Nationals,U23,MK1 1000m,Perth,7,Final,03:42.9,222.9,
+JH,2019,9/3/19,Nationals,U23,MK1 1000m,Perth,2,Semi-Final,03:42.3,222.3,
+JH,2019,10/3/19,Nationals,U23,MK1 500m,Perth,4,Final,01:44.6,104.6,
+JH,2019,9/3/19,Nationals,U23,MK1 500m,Perth,3,Semi-Final,01:40.3,100.3,
+JH,2019,10/3/19,Nationals,U23,MK2 1000m,Perth,4,Final,03:19.6,199.6,Byron Chadwick
+JH,2019,10/3/19,Nationals,U23,MK2 500m,Perth,1,B Final,01:34.4,94.4,Byron Chadwick
+JH,2020,16/3/20,Nationals,U23,MK1 1000m,SIRC,1,B Final,03:43.0,223,
+JH,2020,16/3/20,Nationals,U23,MK1 500m,SIRC,4,B Final,01:44.6,104.6,
+JL,2020,16/3/20,Nationals,U18,WK1 200m,SIRC,4,Final,00:44.3,44.3,
+JL,2020,16/3/20,Nationals,U18,WK1 500m,SIRC,1,Final,01:59.8,119.8,
+JL,2020,16/3/20,Nationals,U18,WK2 200m,SIRC,2,Final,00:43.9,43.9,Chaise Richardson
+JL,2020,16/3/20,Nationals,U18,WK2 500m,SIRC,3,Final,01:55.8,115.8,Chaise Richardson
+JM,2018,10/3/18,Nationals,Open,MK1 1000m,Sydney,1,Final,03:30.0,210,
+JS,2020,16/3/20,Nationals,U18,MK1 1000m,SIRC,3,Final,03:51.8,231.8,
+JS,2020,16/3/20,Nationals,U18,MK1 200m,SIRC,5,Final,00:41.0,41,
+JS,2020,16/3/20,Nationals,U18,MK1 500m,SIRC,4,Final,01:51.1,111.1,
+JS,2020,16/3/20,Nationals,U18,MK2 1000m,SIRC,1,Final,03:30.7,210.7,Fletcher Armstrong
+JS,2020,16/3/20,Nationals,U18,MK2 200m,SIRC,1,Final,00:35.9,35.9,Fletcher Armstrong
+JS,2020,16/3/20,Nationals,U18,MK2 500m,SIRC,1,Final,01:39.8,99.8,Fletcher Armstrong
+JS,2017,10/3/17,Nationals,U18,WK1 500m,SIRC,1,Final,02:03.9,123.9,
+JS,2017,5/3/17,Nationals,U18,WK1 500m,SIRC,2,Heat,02:03.1,123.1,
+JS,2018,6/3/18,Nationals,U23,WK1 200m,SIRC,8,Heat,00:48.4,48.4,
+JS,2018,10/3/18,Nationals,U23,WK1 500m,SIRC,2,B Final,01:59.4,119.4,
+JS,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,7,Final,01:53.1,113.1,Francesca Kidd
+JS,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,5,Final,01:53.5,113.5,Francesca Kidd
+JS,2019,10/3/19,Nationals,Open,WK1 500m,Perth,2,B Final,01:56.4,116.4,
+JS,2020,16/3/20,Nationals,U23,WK1 200m,SIRC,1,B Final,00:45.1,45.1,
+JS,2020,16/3/20,Nationals,U23,WK1 500m,SIRC,2,B Final,02:00.4,120.4,
+JS,2020,16/3/20,Nationals,U23,WK2 200m,SIRC,4,Final,00:42.4,42.4,Georgia Sinclair
+JS,2020,16/3/20,Nationals,U23,WK2 500m,SIRC,7,Final,01:51.7,111.7,Georgia Sinclair
+KD,2013,7/4/13,Nationals,U16,WK1 200m,Perth,8,Final,00:55.4,55.4,
+KD,2013,6/4/13,Nationals,U16,WK1 200m,Perth,5,Semi-Final,00:50.1,50.1,
+KD,2013,5/4/13,Nationals,U16,WK1 500m,Perth,6,Heat,02:34.4,154.4,
+KD,2013,7/4/13,Nationals,U16,WK2 200m,Perth,6,Final,00:55.5,55.5,Hannah Yeates
+KD,2014,30/3/14,Nationals,U18,WK1 200m,Adelaide,4,B Final,00:50.2,50.2,
+KD,2014,28/3/14,Nationals,U18,WK1 200m,Adelaide,4,Heat,00:49.1,49.1,
+KD,2014,30/3/14,Nationals,U18,WK1 500m,Adelaide,5,Final,02:16.9,136.9,
+KD,2014,29/3/14,Nationals,U18,WK1 500m,Adelaide,6,Semi-Final,02:13.6,133.6,
+KD,2014,30/3/14,Nationals,U18,WK2 200m,Adelaide,8,Final,00:49.9,49.9,Matilda Stevenson
+KD,2014,29/3/14,Nationals,U18,WK2 200m,Adelaide,1,Semi-Final,00:46.2,46.2,Matilda Stevenson
+KD,2014,30/3/14,Nationals,U18,WK2 500m,Adelaide,8,Final,02:04.9,124.9,Matilda Stevenson
+KD,2015,15/3/15,Nationals,U18,WK1 200m,Perth,4,Final,00:46.4,46.4,
+KD,2015,15/3/15,Nationals,U18,WK1 500m,Perth,7,Final,02:06.4,126.4,
+KD,2015,14/3/15,Nationals,U18,WK1 500m,Perth,2,Semi-Final,02:02.8,122.8,
+KD,2015,15/3/15,Nationals,U18,WK2 200m,Perth,1,Final,00:42.7,42.7,Rachel Duncan
+KD,2015,15/3/15,Nationals,U18,WK2 500m,Perth,2,Final,01:51.5,111.5,Rachel Duncan
+KD,2015,13/3/15,Nationals,U18,WK2 500m,Perth,2,Heat,01:51.5,111.5,Rachel Duncan
+KD,2016,6/3/16,Nationals,U23,WK1 200m,Perth,8,B Final,00:46.8,46.8,
+KD,2016,5/3/16,Nationals,U23,WK1 200m,Perth,8,Semi-Final,00:46.2,46.2,
+KD,2016,4/3/16,Nationals,U23,WK1 500m,Perth,8,Heat,02:07.4,127.4,
+KD,2016,6/3/16,Nationals,U23,WK2 200m,Perth,7,Final,00:45.0,45,Isabella Kristensen
+KD,2017,10/3/17,Nationals,U23,WK1 200m,SIRC,3,B Final,00:44.8,44.8,
+KD,2017,5/3/17,Nationals,U23,WK1 500m,SIRC,5,Heat,02:05.4,125.4,
+KD,2017,9/3/17,Nationals,U23,WK1 500m,SIRC,9,Semi-Final,02:17.1,137.1,
+KD,2017,10/3/17,Nationals,U23,WK2 200m,SIRC,8,Final,00:44.2,44.2,Freya Alston
+KD,2017,9/3/17,Nationals,U23,WK2 200m,SIRC,1,Semi-Final,00:43.8,43.8,Freya Alston
+KD,2017,10/3/17,Nationals,U23,WK2 500m,SIRC,8,Final,01:56.1,116.1,Freya Alston
+KD,2018,10/3/18,Nationals,U23,WK1 200m,SIRC,9,Final,00:42.9,42.9,
+KD,2018,9/3/18,Nationals,U23,WK1 200m,SIRC,3,Semi-Final,00:42.9,42.9,
+KD,2018,26/7/18,World Champs,U23,WK1 500m,Bulgaria,8,Semi-Final,01:58.7,118.7,
+KD,2018,10/3/18,Nationals,U23,WK2 200m,SIRC,5,Final,00:42.6,42.6,Freya Alston
+KD,2018,10/3/18,Nationals,U23,WK2 500m,SIRC,4,Final,01:49.8,109.8,Freya Alston
+KD,2019,10/3/19,Nationals,U23,WK1 200m,Perth,1,B Final,00:43.0,43,
+KD,2019,10/3/19,Nationals,U23,WK1 500m,Perth,7,B Final,02:01.8,121.8,
+KD,2019,10/3/19,Nationals,U23,WK2 200m,Perth,4,Final,00:41.2,41.2,Freya Alston
+KD,2019,10/3/19,Nationals,U23,WK2 500m,Perth,6,Final,01:51.2,111.2,Freya Alston
+KD,2019,9/3/19,Nationals,U23,WK2 500m,Perth,3,Semi-Final,01:46.4,106.4,Freya Alston
+KD,2020,16/3/20,Nationals,U23,WK1 200m,SIRC,5,Final,00:42.6,42.6,
+KD,2020,16/3/20,Nationals,U23,WK1 500m,SIRC,9,B Final,02:06.9,126.9,
+KD,2020,16/3/20,Nationals,U23,WK2 500m,SIRC,9,Final,01:57.7,117.7,Yasemin Ray
+KH,2018,10/3/18,Nationals,U18,WK1 200m,SIRC,1,Final,00:44.8,44.8,
+KH,2018,26/7/18,World Champs,U18,WK1 500m,Bulgaria,6,Final,01:55.4,115.4,
+KH,2018,10/3/18,Nationals,U18,WK1 500m,SIRC,1,Final,02:01.4,121.4,
+KH,2018,6/3/18,Nationals,U18,WK1 500m,SIRC,1,Heat,02:00.6,120.6,
+KH,2018,25/7/18,World Champs,U18,WK1 500m,Bulgaria,1,Semi-Final,01:55.1,115.1,
+KH,2018,10/3/18,Nationals,U18,WK2 200m,SIRC,3,Final,00:45.7,45.7,Sophie Butler
+KH,2018,10/3/18,Nationals,U18,WK2 500m,SIRC,1,Final,01:54.6,114.6,Anthea Warne
+KH,2019,10/3/19,Nationals,U18,WK1 200m,Perth,1,Final,00:43.5,43.5,
+KH,2019,6/3/19,Nationals,U18,WK1 200m,Perth,1,Heat,00:42.8,42.8,
+KH,2019,10/3/19,Nationals,U18,WK1 500m,Perth,8,Final,01:56.3,116.3,
+KH,2020,16/3/20,Nationals,U23,WK1 500m,SIRC,8,Final,01:59.9,119.9,
+KH,2020,16/3/20,Nationals,U23,WK2 200m,SIRC,3,Final,00:40.2,40.2,Ella Beere
+KH,2020,16/3/20,Nationals,U23,WK2 500m,SIRC,4,Final,01:46.2,106.2,Ella Beere
+LF,2015,15/3/15,Nationals,U16,MK1 1000m,SIRC,4,Final,04:03.9,243.9,
+LF,2015,15/3/15,Nationals,U16,MK1 200m,SIRC,6,Final,00:43.7,43.7,
+LF,2015,15/3/15,Nationals,U16,MK1 500m,SIRC,7,Final,01:57.0,117,
+LF,2015,15/3/15,Nationals,U16,MK2 1000m,SIRC,3,Final,03:50.3,230.3,Ethan Neville
+LF,2015,15/3/15,Nationals,U16,MK2 200m,SIRC,3,Final,00:41.0,41,Ethan Neville
+LF,2015,15/3/15,Nationals,U16,MK2 500m,SIRC,4,Final,01:53.6,113.6,Ethan Neville
+LF,2016,6/3/16,Nationals,U18,MK1 1000m,Perth,6,Final,03:48.3,228.3,
+LF,2016,5/3/16,Nationals,U18,MK1 1000m,Perth,2,Semi-Final,03:45.6,225.6,
+LF,2016,6/3/16,Nationals,U18,MK1 200m,Perth,3,B Final,00:39.6,39.6,
+LF,2016,6/3/16,Nationals,U18,MK1 500m,Perth,5,B Final,01:49.0,109,
+LF,2016,5/3/16,Nationals,U18,MK1 500m,Perth,4,Semi-Final,01:46.4,106.4,
+LF,2016,6/3/16,Nationals,U18,MK2 1000m,Perth,7,Final,03:37.2,217.2,Ethan Neville
+LF,2016,4/3/16,Nationals,U18,MK2 1000m,Perth,4,Heat,03:32.7,212.7,Ethan Neville
+LF,2016,6/3/16,Nationals,U18,MK2 200m,Perth,7,Final,00:39.6,39.6,Ethan Neville
+LF,2016,6/3/16,Nationals,U18,MK2 500m,Perth,6,Final,01:47.3,107.3,Dodge Newton
+LF,2016,5/3/16,Nationals,U18,MK2 500m,Perth,4,Semi-Final,01:45.2,105.2,Dodge Newton
+LF,2017,10/3/17,Nationals,U18,MK1 1000m,SIRC,4,Final,03:50.9,230.9,
+LF,2017,10/3/17,Nationals,U18,MK1 500m,SIRC,6,Final,01:55.1,115.1,
+LF,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,2,Semi-Final,01:52.3,112.3,
+LF,2017,10/3/17,Nationals,U18,MK2 1000m,SIRC,2,Final,03:33.2,213.2,Luke Morton
+LF,2017,10/3/17,Nationals,U18,MK2 200m,SIRC,4,Final,00:37.3,37.3,Luke Morton
+LF,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,2,Final,01:42.8,102.8,Ethan Neville
+LF,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,6,B Final,01:40.5,100.5,Ethan Neville
+LF,2018,6/3/18,Nationals,U23,MK2 500m,SIRC,4,Heat,01:40.1,100.1,Ethan Neville
+LF,2019,10/3/19,Nationals,U23,MK1 1000m,Perth,4,C Final,03:46.3,226.3,
+LF,2019,9/3/19,Nationals,U23,MK1 1000m,Perth,5,Semi-Final,03:45.2,225.2,
+LF,2019,6/3/19,Nationals,U23,MK1 200m,Perth,6,Heat,00:42.4,42.4,
+LF,2019,9/3/19,Nationals,U23,MK1 500m,Perth,7,Semi-Final,01:44.6,104.6,
+LF,2019,6/3/19,Nationals,U23,MK2 1000m,Perth,5,Heat,03:31.5,211.5,Thomas Hughes
+LF,2019,10/3/19,Nationals,U23,MK2 500m,Perth,6,B Final,01:38.3,98.3,Thomas Hughes
+LF,2019,6/3/19,Nationals,U23,MK2 500m,Perth,4,Heat,01:36.8,96.8,Thomas Hughes
+LT,2012,15/3/12,Nationals,Open,MK1 1000m,SIRC,5,Final,03:38.4,218.4,
+LT,2012,18/3/12,Nationals,Open,MK1 200m,SIRC,7,Final,00:37.5,37.5,
+LT,2012,18/3/12,Nationals,Open,MK1 200m,SIRC,1,Semi-Final,00:36.8,36.8,
+LT,2012,18/3/12,Nationals,Open,MK1 500m,SIRC,1,Final,01:33.4,93.4,Tim Donkin
+LT,2012,17/3/12,Nationals,Open,MK2 200m,SIRC,4,Final,00:34.2,34.2,Tim Donkin
+LT,2012,17/3/12,Nationals,Open,MK2 200m,SIRC,1,Semi-Final,00:33.7,33.7,Tim Donkin
+LT,2013,4/4/13,Nationals,Open,MK1 1000m,Perth,6,Final,03:49.7,229.7,
+LT,2013,3/4/13,Nationals,Open,MK1 1000m,Perth,2,Heat,03:40.2,220.2,
+LT,2013,6/4/13,Nationals,Open,MK1 200m,Perth,2,Final,00:36.6,36.6,
+LT,2013,5/4/13,Nationals,Open,MK1 200m,Perth,2,Semi-Final,00:35.8,35.8,
+LT,2013,6/4/13,Nationals,Open,MK1 500m,Perth,7,Heat,02:00.9,120.9,
+LT,2013,4/4/13,Nationals,Open,MK2 1000m,Perth,4,Final,03:34.0,214,Kenny Wallace
+LT,2013,3/4/13,Nationals,Open,MK2 1000m,Perth,1,Heat,03:30.8,210.8,Kenny Wallace
+LT,2013,6/4/13,Nationals,Open,MK2 200m,Perth,2,Final,00:33.5,33.5,Kenny Wallace
+LT,2013,5/4/13,Nationals,Open,MK2 200m,Perth,1,Semi-Final,00:32.6,32.6,Kenny Wallace
+LT,2014,30/3/14,Nationals,Open,MK1 1000m,Adelaide,6,Final,03:42.8,222.8,
+LT,2014,29/3/14,Nationals,Open,MK1 1000m,Adelaide,1,Semi-Final,03:39.9,219.9,
+LT,2014,30/3/14,Nationals,Open,MK1 200m,Adelaide,1,Final,00:37.2,37.2,
+LT,2014,30/3/14,Nationals,Open,MK2 200m,Adelaide,2,Final,00:35.5,35.5,Kenny Wallace
+LT,2014,28/3/14,Nationals,Open,MK2 200m,Adelaide,1,Heat,00:34.3,34.3,Kenny Wallace
+LT,2015,15/3/15,Nationals,Open,MK1 1000m,Perth,3,Final,03:33.6,213.6,
+LT,2015,15/3/15,Nationals,Open,MK1 200m,Perth,4,Final,00:35.3,35.3,
+LT,2015,15/3/15,Nationals,Open,MK2 1000m,Perth,2,Final,03:19.6,199.6,Kenny Wallace
+LT,2015,13/3/15,Nationals,Open,MK2 1000m,Perth,1,Heat,03:17.9,197.9,Kenny Wallace
+LT,2015,15/3/15,Nationals,Open,MK2 200m,Perth,1,Final,00:32.8,32.8,Kenny Wallace
+LT,2016,6/3/16,Nationals,Open,MK1 1000m,Perth,6,Final,03:30.9,210.9,
+LT,2016,6/3/16,Nationals,Open,MK2 1000m,Perth,2,Final,03:09.8,189.8,Kenny Wallace
+LT,2016,6/3/16,Nationals,Open,MK2 200m,Perth,1,Final,00:33.6,33.6,Kenny Wallace
+LT,2016,4/3/16,Nationals,Open,MK2 200m,Perth,1,Heat,00:32.7,32.7,Kenny Wallace
+LT,2017,10/3/17,Nationals,Open,MK1 1000m,SIRC,1,C Final,03:45.9,225.9,
+LT,2017,10/3/17,Nationals,Open,MK1 200m,SIRC,1,Final,00:36.8,36.8,
+LT,2017,10/3/17,Nationals,Open,MK2 200m,SIRC,7,Final,00:35.0,35,Jy Duffy
+LT,2019,10/3/19,Nationals,Open,MK1 200m,Perth,2,Final,00:35.6,35.6,
+LT,2019,10/3/19,Nationals,Open,MK1 500m,Perth,7,Final,01:43.2,103.2,
+LT,2019,9/3/19,Nationals,Open,MK1 500m,Perth,1,Semi-Final,01:37.5,97.5,
+LT,2019,10/3/19,Nationals,Open,MK2 500m,Perth,3,Final,01:31.1,91.1,Murray Stewart
+LT,2019,9/3/19,Nationals,Open,MK2 500m,Perth,1,Semi-Final,01:29.7,89.7,Murray Stewart
+MS,2012,8/7/12,Olympics,Open,MK1 1000m,UK,7,B Final,03:40.8,220.8,
+MS,2012,15/3/12,Nationals,Open,MK1 1000m,SIRC,1,Final,03:30.6,210.6,
+MS,2012,6/7/12,Olympics,Open,MK1 1000m,UK,6,Heat,03:32.8,212.8,
+MS,2012,18/3/12,Nationals,Open,MK1 200m,SIRC,1,Final,00:36.2,36.2,
+MS,2012,10/7/12,Olympics,Open,MK1 200m,UK,6,Heat,00:37.2,37.2,
+MS,2012,16/3/12,Nationals,Open,MK2 1000m,SIRC,1,Final,03:16.1,196.1,Kenny Wallace
+MS,2013,4/4/13,Nationals,Open,MK1 1000m,Perth,2,Final,03:42.4,222.4,
+MS,2013,3/4/13,Nationals,Open,MK1 1000m,Perth,1,Heat,03:41.4,221.4,
+MS,2013,6/4/13,Nationals,Open,MK1 200m,Perth,4,Final,00:37.0,37,
+MS,2013,5/4/13,Nationals,Open,MK1 200m,Perth,2,Semi-Final,00:35.8,35.8,
+MS,2013,7/4/13,Nationals,Open,MK1 500m,Perth,2,Final,01:43.1,103.1,
+MS,2013,4/4/13,Nationals,Open,MK2 1000m,Perth,1,Final,03:28.3,208.3,Jacob Clear
+MS,2013,31/8/13,World Champs,Open,MK2 1000m,Germany,5,Final,03:24.3,204.3,Jacob Clear
+MS,2013,3/4/13,Nationals,Open,MK2 1000m,Perth,1,Heat,03:26.9,206.9,Jacob Clear
+MS,2013,29/8/13,World Champs,Open,MK2 1000m,Germany,2,Heat,03:12.8,192.8,Jacob Clear
+MS,2013,6/4/13,Nationals,Open,MK2 200m,Perth,5,Final,00:34.9,34.9,Tate Smith
+MS,2013,5/4/13,Nationals,Open,MK2 200m,Perth,3,Semi-Final,00:33.4,33.4,Tate Smith
+MS,2014,6/8/14,World Champs,Open,MK1 1000m,Russia,5,Final,03:27.0,207,
+MS,2014,30/3/14,Nationals,Open,MK1 1000m,Adelaide,1,Final,03:36.1,216.1,
+MS,2014,30/3/14,Nationals,Open,MK2 1000m,Adelaide,1,Final,03:14.1,194.1,Jacob Clear
+MS,2015,15/3/15,Nationals,Open,MK1 1000m,SIRC,1,Final,03:28.1,208.1,
+MS,2015,19/8/15,World Champs,Open,MK1 1000m,Italy,6,Final,03:28.7,208.7,
+MS,2015,18/8/15,World Champs,Open,MK1 1000m,Italy,2,Semi-Final,03:28.6,208.6,
+MS,2015,15/3/15,Nationals,Open,MK1 500m,SIRC,1,Final,01:37.5,97.5,
+MS,2015,15/3/15,Nationals,Open,MK2 1000m,SirC,1,Final,03:14.1,194.1,Jacob Clear
+MS,2016,6/3/16,Nationals,Open,MK1 1000m,Perth,1,Final,03:25.7,205.7,
+MS,2016,16/8/16,Olympics,Open,MK1 1000m,Rio,4,Final,03:33.7,213.7,
+MS,2016,5/3/16,Nationals,Open,MK1 1000m,Perth,1,Semi-Final,03:25.2,205.2,
+MS,2016,6/3/16,Nationals,Open,MK2 1000m,Perth,1,Final,03:09.7,189.7,Jacob Clear
+MS,2016,4/3/16,Nationals,Open,MK2 1000m,Perth,1,Heat,03:09.0,189,Jacob Clear
+MS,2017,23/8/17,World Champs,Open,MK1 1000m,Czech Republic,3,B Final,03:32.6,212.6,
+MS,2017,10/3/17,Nationals,Open,MK1 1000m,SIRC,1,Final,03:37.8,217.8,
+MS,2017,10/3/17,Nationals,Open,MK1 500m,SIRC,1,Final,01:42.2,102.2,
+MS,2017,10/3/17,Nationals,Open,MK2 1000m,SIRC,2,Final,03:22.7,202.7,Simon McTavish
+MS,2018,10/3/18,Nationals,Open,MK1 1000m,SIRC,1,Final,03:29.4,209.4,
+MS,2018,23/8/18,World Champs,Open,MK1 1000m,Portugal,9,Final,03:33.3,213.3,
+MS,2018,22/8/18,World Champs,Open,MK1 1000m,Portugal,3,Semi-Final,03:32.3,212.3,
+MS,2018,10/3/18,Nationals,Open,MK2 1000m,SIRC,2,Final,03:10.6,190.6,Tom Green
+MS,2018,10/3/18,Nationals,Open,MK2 500m,SIRC,3,Final,01:32.5,92.5,Matt Goble
+MS,2019,10/3/19,Nationals,Open,MK1 1000m,Perth,4,Final,03:35.4,215.4,
+MS,2019,9/3/19,Nationals,Open,MK1 1000m,Perth,1,Semi-Final,03:34.0,214,
+MS,2019,10/3/19,Nationals,Open,MK2 1000m,Perth,6,Final,03:20.3,200.3,Bill Bain
+MS,2019,10/3/19,Nationals,Open,MK2 500m,Perth,3,Final,01:31.1,91.1,Lachlan Tame
+MS,2019,9/3/19,Nationals,Open,MK2 500m,Perth,1,Semi-Final,01:29.7,89.7,Lachlan Tame
+MS,2020,16/3/20,Nationals,Open,MK1 1000m,SIRC,5,Final,03:42.5,222.5,
+MS,2020,16/3/20,Nationals,Open,MK1 500m,SIRC,4,Final,01:42.2,102.2,
+MS,2020,16/3/20,Nationals,Open,MK2 1000m,SIRC,3,Final,03:15.2,195.2,Lachlan Tame
+ND,2020,16/3/20,Nationals,U16,WK1 200m,SIRC,1,Final,00:44.1,44.1,
+ND,2020,16/3/20,Nationals,U16,WK1 500m,SIRC,1,Final,02:03.0,123,
+ND,2020,16/3/20,Nationals,U16,WK2 500m,SIRC,1,Final,01:56.2,116.2,Demi Bates
+RD,2012,18/3/12,Nationals,U16,WK1 200m,SIRC,2,Final,00:47.1,47.1,
+RD,2012,16/3/12,Nationals,U16,WK1 500m,SIRC,1,Final,02:08.9,128.9,
+RD,2012,17/3/12,Nationals,U16,WK2 200m,SIRC,1,Final,00:44.3,44.3,Tanielle Basson
+RD,2012,16/3/12,Nationals,U16,WK2 500m,SIRC,1,Final,01:57.9,117.9,Tanielle Basson
+RD,2013,7/4/13,Nationals,U16,WK1 200m,Perth,1,Final,00:49.3,49.3,
+RD,2013,5/4/13,Nationals,U16,WK1 200m,Perth,1,Heat,00:46.0,46,
+RD,2013,7/4/13,Nationals,U16,WK1 500m,Perth,2,Final,02:14.1,134.1,
+RD,2013,7/4/13,Nationals,U16,WK2 200m,Perth,1,Final,00:44.6,44.6,Chloe Sterry
+RD,2013,7/4/13,Nationals,U16,WK2 500m,Perth,1,Final,02:04.1,124.1,Chloe Sterry
+RD,2014,30/3/14,Nationals,U18,WK1 200m,Adelaide,6,Final,00:47.1,47.1,
+RD,2014,30/3/14,Nationals,U18,WK1 500m,Adelaide,6,Final,02:07.6,127.6,
+RD,2014,30/3/14,Nationals,U18,WK2 200m,Adelaide,1,Final,00:44.8,44.8,Tanielle Basson
+RD,2014,28/3/14,Nationals,U18,WK2 200m,Adelaide,1,Heat,00:42.8,42.8,Tanielle Basson
+RD,2014,30/3/14,Nationals,U18,WK2 500m,Adelaide,4,Final,01:56.7,116.7,Tanielle Basson
+RD,2015,15/3/15,Nationals,U18,WK1 200m,SIRC,3,Final,00:45.7,45.7,
+RD,2015,15/3/15,Nationals,U18,WK1 500m,SIRC,3,Final,02:03.1,123.1,
+RD,2015,14/3/15,Nationals,U18,WK1 500m,SIRC,1,Semi-Final,02:03.0,123,
+RD,2015,15/3/15,Nationals,U18,WK2 200m,SIRC,1,Final,00:42.7,42.7,Keily Dober
+RD,2015,15/3/15,Nationals,U18,WK2 500m,SIRC,2,Final,01:51.5,111.5,Keily Dober
+RD,2016,6/3/16,Nationals,U23,WK1 200m,Perth,3,B Final,00:43.5,43.5,
+RD,2016,6/3/16,Nationals,U23,WK1 500m,Perth,2,B Final,01:55.8,115.8,
+RD,2016,4/3/16,Nationals,U23,WK1 500m,Perth,6,Heat,01:55.0,115,
+RD,2016,6/3/16,Nationals,U23,WK2 200m,Perth,5,Final,00:41.9,41.9,Dee Godoy
+RD,2016,6/3/16,Nationals,U23,WK2 500m,Perth,4,Final,01:45.7,105.7,Dee Godoy
+RD,2016,4/3/16,Nationals,U23,WK2 500m,Perth,3,Heat,01:51.2,111.2,Dee Godoy
+RD,2017,10/3/17,Nationals,U23,WK1 200m,SIRC,4,B Final,00:44.9,44.9,
+RD,2017,10/3/17,Nationals,U23,WK1 500m,SIRC,4,B Final,02:05.1,125.1,
+RD,2017,5/3/17,Nationals,U23,WK1 500m,SIRC,4,Heat,02:03.0,123,
+RD,2017,10/3/17,Nationals,U23,WK2 200m,SIRC,7,Final,00:43.3,43.3,Francesca Kidd
+RD,2017,10/3/17,Nationals,U23,WK2 500m,SIRC,6,Final,01:55.1,115.1,Francesca Kidd
+RF,2012,15/3/12,Nationals,U16,MK1 1000m,SIRC,2,Final,03:54.2,234.2,
+RF,2012,17/3/12,Nationals,U16,MK1 200m,SIRC,1,B Final,00:44.0,44,
+RF,2012,17/3/12,Nationals,U16,MK1 200m,SIRC,5,Semi-Final,00:43.7,43.7,
+RF,2012,16/3/12,Nationals,U16,MK1 500m,SIRC,2,Final,01:53.2,113.2,
+RF,2013,4/4/13,Nationals,U18,MK1 1000m,Perth,3,Final,04:00.2,240.2,
+RF,2013,6/4/13,Nationals,U18,MK1 200m,Perth,5,C Final,00:42.0,42,
+RF,2013,5/4/13,Nationals,U18,MK1 200m,Perth,4,Heat,00:40.0,40,
+RF,2013,4/4/13,Nationals,U18,MK2 1000m,Perth,2,Final,03:41.3,221.3,Peter Euers
+RF,2013,6/4/13,Nationals,U18,MK2 200m,Perth,8,Final,00:40.2,40.2,Jackson Allan
+RF,2013,5/4/13,Nationals,U18,MK2 200m,Perth,4,Semi-Final,00:37.3,37.3,Jackson Allan
+RF,2013,7/4/13,Nationals,U18,MK2 500m,Perth,6,Final,01:48.8,108.8,Jackson Allan
+RF,2013,6/4/13,Nationals,U18,MK2 500m,Perth,3,Heat,01:44.5,104.5,Jackson Allan
+RF,2014,30/3/14,Nationals,U18,MK1 1000m,Adelaide,2,Final,03:44.5,224.5,
+RF,2014,30/3/14,Nationals,U18,MK1 200m,Adelaide,7,Final,00:42.0,42,
+RF,2014,29/3/14,Nationals,U18,MK1 200m,Adelaide,3,Semi-Final,00:39.9,39.9,
+RF,2014,30/3/14,Nationals,U18,MK1 500m,Adelaide,2,Final,01:53.4,113.4,
+RF,2014,30/3/14,Nationals,U18,MK2 1000m,Adelaide,1,Final,03:25.0,205,Jy Duffy
+RF,2014,30/3/14,Nationals,U18,MK2 200m,Adelaide,5,Final,00:38.5,38.5,Jy Duffy
+RF,2015,15/3/15,Nationals,U23,MK1 1000m,Perth,6,Final,03:37.0,217,
+RF,2015,15/3/15,Nationals,U23,MK1 200m,Perth,5,C Final,00:38.8,38.8,
+RF,2015,15/3/15,Nationals,U23,MK2 1000m,Perth,4,Final,03:19.9,199.9,Jordan Wood
+RF,2015,13/3/15,Nationals,U23,MK2 1000m,Perth,3,Heat,03:17.1,197.1,Jordan Wood
+RF,2015,15/3/15,Nationals,U23,MK2 500m,Perth,2,Final,01:33.5,93.5,Jordan Wood
+RF,2016,6/3/16,Nationals,U23,MK1 1000m,Perth,7,Final,03:32.8,212.8,
+RF,2016,5/3/16,Nationals,U23,MK1 1000m,Perth,3,Semi-Final,03:30.1,210.1,
+RF,2016,6/3/16,Nationals,U23,MK2 1000m,Perth,3,Final,03:11.9,191.9,Jordan Wood
+RF,2017,10/3/17,Nationals,U23,MK1 1000m,SIRC,6,Final,03:43.3,223.3,
+RF,2017,10/3/17,Nationals,U23,MK2 1000m,SIRC,1,Final,03:20.7,200.7,Jordan Wood
+RF,2017,27/7/17,World Champs,U23,MK2 1000m,Romania,3,Final,03:39.0,219,Jordan Wood
+RF,2017,25/7/17,World Champs,U23,MK2 1000m,Romania,1,Heat,03:18.9,198.9,Jordan Wood
+RF,2018,10/3/18,Nationals,U23,MK1 500m,SIRC,5,Final,01:47.4,107.4,
+RF,2018,6/3/18,Nationals,U23,MK1 500m,SIRC,1,Heat,01:46.9,106.9,
+RF,2018,23/8/18,World Champs,Open,MK2 1000m,Portugal,4,Final,03:17.4,197.4,Jordan Wood
+RF,2018,22/8/18,World Champs,Open,MK2 1000m,Portugal,1,Semi-Final,03:11.3,191.3,Jordan Wood
+RF,2018,10/3/18,Nationals,U23,MK2 1000m,SIRC,1,Final,03:08.6,188.6,Jordan Wood
+RF,2018,23/8/18,World Champs,Open,MK2 500m,Portugal,3,Heat,01:33.8,93.8,Jordan Wood
+RF,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,1,Final,01:30.2,90.2,Jordan Wood
+RF,2019,10/3/19,Nationals,Open,MK1 1000m,Perth,6,Final,03:39.3,219.3,
+RF,2019,9/3/19,Nationals,Open,MK1 1000m,Perth,2,Semi-Final,03:32.9,212.9,
+RF,2019,10/3/19,Nationals,Open,MK1 500m,Perth,5,Final,01:42.5,102.5,
+RF,2019,9/3/19,Nationals,Open,MK1 500m,Perth,2,Semi-Final,01:38.3,98.3,
+RF,2019,10/3/19,Nationals,Open,MK2 1000m,Perth,1,Final,03:10.0,190,Jordan Wood
+RF,2019,10/3/19,Nationals,Open,MK2 500m,Perth,1,Final,01:29.9,89.9,Jordan Wood
+RM,2013,4/4/13,Nationals,U23,MK1 1000m,Perth,4,B Final,04:12.4,252.4,
+RM,2013,3/4/13,Nationals,U23,MK1 1000m,Perth,5,Heat,03:57.1,237.1,
+RM,2013,6/4/13,Nationals,U23,MK1 200m,Perth,3,Final,00:40.1,40.1,
+RM,2013,5/4/13,Nationals,U23,MK1 200m,Perth,1,Semi-Final,00:38.6,38.6,
+RM,2013,7/4/13,Nationals,U23,MK1 500m,Perth,4,Final,01:55.2,115.2,
+RM,2013,6/4/13,Nationals,U23,MK1 500m,Perth,1,Heat,01:54.7,114.7,
+RM,2013,4/4/13,Nationals,U23,MK2 1000m,Perth,6,Final,03:58.8,238.8,Arnold Gaf
+RM,2013,6/4/13,Nationals,U23,MK2 200m,Perth,3,Final,00:37.9,37.9,Tom Norton
+RM,2013,5/4/13,Nationals,U23,MK2 200m,Perth,1,Heat,00:36.4,36.4,Tom Norton
+RM,2013,7/4/13,Nationals,U23,MK2 500m,Perth,3,Final,01:40.4,100.4,Jeremy Petho
+RM,2014,30/3/14,Nationals,Open,MK1 200m,Adelaide,4,B Final,00:39.3,39.3,
+RM,2014,28/3/14,Nationals,Open,MK1 200m,Adelaide,1,Heat,00:39.2,39.2,
+RM,2014,30/3/14,Nationals,Open,MK1 500m,Adelaide,8,Final,01:51.5,111.5,
+RM,2014,29/3/14,Nationals,Open,MK1 500m,Adelaide,1,Semi-Final,01:48.2,108.2,
+RM,2014,30/3/14,Nationals,Open,MK2 200m,Adelaide,8,Final,00:37.2,37.2,Mark Stowe
+RM,2014,29/3/14,Nationals,Open,MK2 200m,Adelaide,3,Semi-Final,00:34.7,34.7,Mark Stowe
+RM,2014,17/7/14,World Champs,U23,MK2 200m,Hungary,3,C Final,00:35.0,35,Mark Stowe
+RM,2014,16/7/14,World Champs,U23,MK2 200m,Hungary,6,Heat,00:34.0,34,Mark Stowe
+RM,2015,15/3/15,Nationals,Open,MK1 200m,SIRC,6,Final,00:35.6,35.6,
+RM,2015,15/3/15,Nationals,Open,MK2 200m,SIRC,7,Final,00:34.3,34.3,Mark Stowe
+RM,2015,15/3/15,Nationals,Open,MK2 500m,SIRC,2,Final,01:37.1,97.1,Callum Dunn
+RM,2016,6/3/16,Nationals,Open,MK1 200m,Perth,4,B Final,00:36.9,36.9,
+RM,2016,5/3/16,Nationals,Open,MK1 200m,Perth,4,Semi-Final,00:36.6,36.6,
+RM,2016,6/3/16,Nationals,Open,MK1 500m,Perth,4,Final,01:42.1,102.1,
+RM,2016,6/3/16,Nationals,Open,MK2 200m,Perth,7,Final,00:35.9,35.9,Fabio Wyss
+RM,2016,5/3/16,Nationals,Open,MK2 200m,Perth,3,Semi-Final,00:34.2,34.2,Fabio Wyss
+RM,2017,10/3/17,Nationals,Open,MK1 200m,SIRC,8,Final,00:38.1,38.1,
+RM,2017,5/3/17,Nationals,Open,MK1 200m,SIRC,1,Heat,00:37.7,37.7,
+RM,2017,10/3/17,Nationals,Open,MK1 500m,SIRC,8,Final,01:49.0,109,
+RM,2017,9/3/17,Nationals,Open,MK1 500m,SIRC,3,Semi-Final,01:44.7,104.7,
+RM,2017,10/3/17,Nationals,Open,MK2 200m,SIRC,1,Final,00:34.0,34,Matt Goble
+RM,2018,10/3/18,Nationals,Open,MK1 200m,SIRC,4,Final,00:36.0,36,
+RM,2018,10/3/18,Nationals,Open,MK1 500m,SIRC,1,B Final,01:48.0,108,
+RM,2018,9/3/18,Nationals,Open,MK1 500m,SIRC,4,Semi-Final,01:46.9,106.9,
+RM,2018,10/3/18,Nationals,Open,MK2 200m,SIRC,3,Final,00:35.7,35.7,Dylan Littlehales
+RM,2018,10/3/18,Nationals,Open,MK2 500m,SIRC,8,Final,01:37.4,97.4,Mark Stowe
+RM,2018,9/3/18,Nationals,Open,MK2 500m,SIRC,3,Semi-Final,01:37.0,97,Mark Stowe
+RM,2019,10/3/19,Nationals,Open,MK1 200m,Perth,6,Final,00:37.6,37.6,
+RM,2019,6/3/19,Nationals,Open,MK1 500m,Perth,2,Heat,01:43.8,103.8,
+RM,2019,10/3/19,Nationals,Open,MK2 200m,Perth,2,Final,00:34.5,34.5,Callum Dunn
+RM,2019,9/3/19,Nationals,U23,MK2 200m,Perth,1,Semi-Final,00:33.2,33.2,Callum Dunn
+RM,2019,10/3/19,Nationals,Open,MK2 500m,Perth,2,B Final,01:34.6,94.6,Callum Dunn
+RM,2019,9/3/19,Nationals,Open,MK2 500m,Perth,5,Semi-Final,01:33.3,93.3,Callum Dunn
+SM,2012,15/3/12,Nationals,U16,MK1 1000m,SIRC,6,Final,04:03.4,243.4,
+SM,2012,17/3/12,Nationals,U16,MK1 200m,SIRC,6,Final,00:43.4,43.4,
+SM,2012,17/3/12,Nationals,U16,MK1 200m,SIRC,2,Semi-Final,00:42.8,42.8,
+SM,2012,16/3/12,Nationals,U16,MK1 500m,Perth,4,Final,01:54.9,114.9,
+SM,2012,16/3/12,Nationals,U16,MK1 500m,Perth,1,Semi-Final,01:54.5,114.5,
+SM,2012,15/3/12,Nationals,U16,MK2 1000m,SIRC,1,Final,03:36.8,216.8,Isaac Lawrence
+SM,2012,18/3/12,Nationals,U16,MK2 200m,SIRC,1,Final,00:38.3,38.3,Isaac Lawrence
+SM,2012,17/3/12,Nationals,U16,MK2 500m,SIRC,1,Final,01:42.7,102.7,Isaac Lawrence
+SM,2013,4/4/13,Nationals,U18,MK1 1000m,Perth,1,B Final,04:11.8,251.8,
+SM,2013,3/4/13,Nationals,U18,MK1 1000m,Perth,6,Semi-Final,04:04.7,244.7,
+SM,2013,6/4/13,Nationals,U18,MK1 200m,Perth,4,C Final,00:41.7,41.7,
+SM,2013,5/4/13,Nationals,U18,MK1 200m,Perth,6,Semi-Final,00:40.5,40.5,
+SM,2013,4/4/13,Nationals,U18,MK2 1000m,Perth,1,Final,03:52.7,232.7,Jacob Tsagaris
+SM,2013,3/4/13,Nationals,U18,MK2 1000m,Perth,2,Heat,03:41.7,221.7,Jacob Tsagaris
+SM,2013,6/4/13,Nationals,U18,MK2 200m,Perth,5,Final,00:38.0,38,Jacob Tsagaris
+SM,2013,5/4/13,Nationals,U18,MK2 200m,Perth,4,Semi-Final,00:36.8,36.8,Jacob Tsagaris
+SM,2013,7/4/13,Nationals,U18,MK2 500m,Perth,4,Final,01:43.1,103.1,Jacob Tsagaris
+SM,2014,30/3/14,Nationals,U18,MK1 1000m,Adelaide,3,Final,03:48.3,228.3,
+SM,2014,30/3/14,Nationals,U18,MK1 200m,Adelaide,1,Final,00:39.4,39.4,
+SM,2014,30/3/14,Nationals,U18,MK1 500m,Adelaide,1,Final,01:50.0,110,
+SM,2014,30/3/14,Nationals,U18,MK2 1000m,Adelaide,4,Final,03:36.4,216.4,Isaac Lawrence
+SM,2014,30/3/14,Nationals,U18,MK2 200m,Adelaide,6,Final,00:39.7,39.7,Isaac Lawrence
+SM,2014,28/3/14,Nationals,U18,MK2 200m,Adelaide,3,Heat,00:38.9,38.9,Isaac Lawrence
+SM,2014,30/3/14,Nationals,U18,MK2 500m,Adelaide,3,Final,01:42.7,102.7,Isaac Lawrence
+SM,2015,15/3/15,Nationals,U23,MK1 1000m,SIRC,8,B Final,03:39.9,219.9,
+SM,2015,14/3/15,Nationals,U23,MK1 1000m,SIRC,5,Semi-Final,03:37.9,217.9,
+SM,2015,15/3/15,Nationals,U23,MK1 200m,SIRC,9,B Final,00:38.8,38.8,
+SM,2015,13/3/15,Nationals,U23,MK1 200m,SIRC,4,Heat,00:38.2,38.2,
+SM,2015,15/3/15,Nationals,U23,MK2 1000m,SIRC,8,Final,03:28.1,208.1,Timothy Stenlake
+SM,2015,14/3/15,Nationals,U23,MK2 1000m,SIRC,2,Semi-Final,03:21.0,201,Timothy Stenlake
+SM,2016,6/3/16,Nationals,U23,MK1 1000m,Perth,1,B Final,03:30.1,210.1,
+SM,2016,6/3/16,Nationals,U23,MK2 1000m,Perth,6,Final,03:19.4,199.4,Tom Norton
+SM,2016,28/7/16,World Champs,U23,MK2 1000m,Belarus,8,Final,03:21.8,201.8,Tom Norton
+SM,2016,26/7/16,World Champs,U23,MK2 1000m,Belarus,1,Heat,03:14.5,194.5,Tom Norton
+SM,2016,5/3/16,Nationals,U23,MK2 1000m,Perth,3,Semi-Final,03:14.8,194.8,Tom Norton
+SM,2017,10/3/17,Nationals,U23,MK1 1000m,SIRC,3,Final,03:39.6,219.6,
+SM,2017,10/3/17,Nationals,U23,MK1 500m,SIRC,3,Final,01:44.0,104,
+SM,2017,10/3/17,Nationals,U23,MK1 500m,SIRC,3,Final,01:44.0,104,
+SM,2017,10/3/17,Nationals,U23,MK2 1000m,SIRC,2,Final,03:22.7,202.7,Murray Stewart
+SM,2017,23/8/17,World Champs,Open,MK2 500m,Czech Republic,9,Final,01:33.8,93.8,Jayden Ellis
+SM,2017,22/8/17,World Champs,Open,MK2 500m,Czech Republic,3,Semi-Final,01:32.6,92.6,Jayden Ellis
+SM,2018,10/3/18,Nationals,U23,MK1 1000m,SIRC,2,Final,03:31.3,211.3,
+SM,2018,26/7/18,World Champs,U23,MK1 1000m,Bulgaria,2,Final,03:42.4,222.4,
+SM,2018,10/3/18,Nationals,U23,MK1 200m,SIRC,6,Final,00:36.1,36.1,
+SM,2018,10/3/18,Nationals,U23,MK1 500m,SIRC,1,Final,01:41.9,101.9,
+SM,2018,10/3/18,Nationals,U23,MK2 1000m,SIRC,3,Final,03:13.1,193.1,Joel McKitterick
+SM,2018,10/3/18,Nationals,U23,MK2 500m,SIRC,4,Final,01:32.7,92.7,Jayden Ellis
+ST,2020,16/3/20,Nationals,U18,WK1 200m,SIRC,9,Final,00:47.0,47,
+ST,2020,16/3/20,Nationals,U18,WK1 500m,SIRC,5,Final,02:05.4,125.4,
+ST,2020,16/3/20,Nationals,U18,WK2 500m,SIRC,1,Final,01:53.9,113.9,AV
+TH,2016,4/3/16,Nationals,U16,MK1 1000m,Perth,4,Heat,04:16.9,256.9,
+TH,2016,5/3/16,Nationals,U16,MK1 1000m,Perth,7,Semi-Final,04:27.7,267.7,
+TH,2016,4/3/16,Nationals,U16,MK1 200m,Perth,4,Heat,00:46.6,46.6,
+TH,2016,5/3/16,Nationals,U16,MK1 200m,Perth,7,Semi-Final,00:47.0,47,
+TH,2016,4/3/16,Nationals,U16,MK1 500m,Perth,5,Heat,02:01.7,121.7,
+TH,2016,6/3/16,Nationals,U16,MK2 1000m,Perth,7,Final,04:11.7,251.7,Eli Newton
+TH,2016,6/3/16,Nationals,U16,MK2 200m,Perth,5,B Final,00:43.7,43.7,Max Morgan
+TH,2016,5/3/16,Nationals,U16,MK2 500m,Perth,5,Semi-Final,01:48.2,108.2,Tasman Farrell
+TH,2017,10/3/17,Nationals,U18,MK1 1000m,SIRC,1,B Final,03:58.6,238.6,
+TH,2017,10/3/17,Nationals,U18,MK1 200m,SIRC,1,B Final,00:41.1,41.1,
+TH,2017,10/3/17,Nationals,U18,MK1 500m,SIRC,9,Final,01:57.7,117.7,
+TH,2017,9/3/17,Nationals,U18,MK1 500m,SIRC,3,Semi-Final,01:51.8,111.8,
+TH,2017,10/3/17,Nationals,U18,MK2 1000m,SIRC,7,Final,03:51.6,231.6,Mitchell Cronin
+TH,2017,5/3/17,Nationals,U18,MK2 1000m,SIRC,4,Heat,03:50.6,230.6,Mitchell Cronin
+TH,2017,10/3/17,Nationals,U18,MK2 200m,SIRC,5,Final,00:38.0,38,Mitchell Cronin
+TH,2017,10/3/17,Nationals,U18,MK2 500m,SIRC,5,Final,01:47.2,107.2,Mitchell Cronin
+TH,2018,26/7/18,World Champs,U18,MK1 1000m,Bulgaria,1,C Final,03:43.2,223.2,
+TH,2018,10/3/18,Nationals,U18,MK1 200m,SIRC,4,Final,00:39.9,39.9,
+TH,2018,9/3/18,Nationals,U18,MK1 200m,SIRC,2,Semi-Final,00:38.5,38.5,
+TH,2018,10/3/18,Nationals,U18,MK1 500m,SIRC,3,Final,01:50.1,110.1,
+TH,2018,10/3/18,Nationals,U18,MK2 500m,SIRC,3,Final,01:41.1,101.1,Carter Brodhurst-Hill
+TH,2019,6/3/19,Nationals,U23,MK1 1000m,Perth,4,Heat,03:48.5,228.5,
+TH,2019,9/3/19,Nationals,U23,MK1 1000m,Perth,7,Semi-Final,03:49.6,229.6,
+TH,2019,10/3/19,Nationals,U23,MK1 500m,Perth,5,C Final,01:46.5,106.5,
+TH,2019,9/3/19,Nationals,U23,MK1 500m,Perth,5,Semi-Final,01:43.5,103.5,
+TH,2019,6/3/19,Nationals,U23,MK2 1000m,Perth,5,Heat,03:31.5,211.5,Liam Farrell
+TH,2019,9/3/19,Nationals,U23,MK2 1000m,Perth,7,Semi-Final,03:33.6,213.6,Liam Farrell
+TH,2019,6/3/19,Nationals,U23,MK2 200m,Perth,6,Heat,00:42.4,42.4,Liam Farrell
+TH,2019,10/3/19,Nationals,U23,MK2 500m,Perth,6,B Final,01:38.3,98.3,Liam Farrell
+TH,2019,6/3/19,Nationals,U23,MK2 500m,Perth,4,Heat,01:36.8,96.8,Liam Farrell
+TK,2015,13/3/15,Nationals,U14,MK1 1000m,Perth,6,Heat,05:40.6,340.6,
+TK,2015,15/3/15,Nationals,U14,MK1 200m,Perth,9,B Final,01:04.0,64,
+TK,2015,14/3/15,Nationals,U14,MK1 200m,Perth,7,Semi-Final,01:03.1,63.1,
+TK,2015,15/3/15,Nationals,U14,MK1 500m,Perth,8,B Final,02:46.8,166.8,
+TK,2015,13/3/15,Nationals,U14,MK1 500m,Perth,4,Heat,02:40.4,160.4,
+TK,2015,15/3/15,Nationals,U14,MK2 1000m,Perth,6,Final,05:24.2,324.2,Zachary Fenley
+TK,2015,15/3/15,Nationals,U14,MK2 500m,Perth,6,Final,02:33.3,153.3,Zak Inkster
+TK,2016,4/3/16,Nationals,U16,MK1 1000m,Perth,4,Heat,04:17.8,257.8,
+TK,2016,5/3/16,Nationals,U16,MK1 1000m,Perth,7,Semi-Final,04:23.2,263.2,
+TK,2016,4/3/16,Nationals,U16,MK1 200m,Perth,5,Heat,00:47.6,47.6,
+TK,2016,5/3/16,Nationals,U16,MK1 200m,Perth,8,Semi-Final,00:48.1,48.1,
+TK,2016,4/3/16,Nationals,U16,MK1 500m,Perth,4,Heat,02:00.3,120.3,
+TK,2016,5/3/16,Nationals,U16,MK1 500m,Perth,6,Semi-Final,02:14.9,134.9,
+TK,2016,6/3/16,Nationals,U16,MK2 1000m,Perth,5,B Final,04:06.4,246.4,Connor Shapcott
+TK,2016,5/3/16,Nationals,U16,MK2 1000m,Perth,7,Semi-Final,04:03.6,243.6,Connor Shapcott
+TK,2016,6/3/16,Nationals,U16,MK2 200m,Perth,8,B Final,00:45.6,45.6,Connor Shapcott
+TK,2016,6/3/16,Nationals,U16,MK2 500m,Perth,5,B Final,02:09.0,129,Connor Shapcott
+TK,2016,6/3/16,Nationals,U16,MK2 500m,Perth,8,Final,01:54.4,114.4,Connor Shapcott
+TK,2017,5/3/17,Nationals,U16,MK1 1000m,SIRC,2,B Final,04:16.2,256.2,
+TK,2017,10/3/17,Nationals,U16,MK1 200m,SIRC,8,Final,00:43.4,43.4,
+TK,2017,9/3/17,Nationals,U16,MK1 200m,SIRC,3,Semi-Final,00:43.0,43,
+TK,2017,10/3/17,Nationals,U16,MK1 500m,SIRC,3,B Final,02:01.2,121.2,
+TK,2017,10/3/17,Nationals,U16,MK2 1000m,SIRC,8,Final,03:58.7,238.7,Jacob Gardner
+TK,2017,10/3/17,Nationals,U16,MK2 200m,SIRC,5,Final,00:41.5,41.5,Jacob Gardner
+TK,2017,5/3/17,Nationals,U16,MK2 500m,SIRC,1,Heat,01:54.7,114.7,Jacob Gardner
+TK,2017,5/3/17,Nationals,U16,MK2 500m,SIRC,6,Heat,01:55.2,115.2,Jacob Gardner
+TK,2018,10/3/18,Nationals,U18,MK1 1000m,SIRC,4,Final,03:45.9,225.9,
+TK,2018,10/3/18,Nationals,U18,MK1 200m,SIRC,7,Final,00:40.7,40.7,
+TK,2018,9/3/18,Nationals,U18,MK1 200m,SIRC,2,Semi-Final,00:39.6,39.6,
+TK,2018,10/3/18,Nationals,U18,MK1 500m,SIRC,6,Final,01:50.9,110.9,
+TK,2018,10/3/18,Nationals,U18,MK2 1000m,SIRC,4,Final,03:36.0,216,Daniel Peacock
+TK,2018,10/3/18,Nationals,U18,MK2 200m,SIRC,6,Final,00:40.1,40.1,Daniel Peacock
+TK,2018,10/3/18,Nationals,U18,MK2 500m,SIRC,6,Final,01:46.2,106.2,Daniel Peacock
+TK,2019,10/3/19,Nationals,U18,MK1 1000m,Perth,2,Final,03:38.3,218.3,Jarrah Sheppard
+TK,2019,10/3/19,Nationals,U18,MK1 1000m,Perth,1,Final,03:48.0,228,
+TK,2019,10/3/19,Nationals,U18,MK1 200m,Perth,8,Final,00:41.5,41.5,
+TK,2019,9/3/19,Nationals,U18,MK1 200m,Perth,4,Semi-Final,00:39.2,39.2,
+TK,2019,10/3/19,Nationals,U18,MK1 500m,Perth,3,Final,01:46.7,106.7,
+TK,2019,9/3/19,Nationals,U18,MK1 500m,Perth,1,Semi-Final,01:45.7,105.7,
+TK,2019,10/3/19,Nationals,U18,MK2 200m,Perth,4,Final,00:39.1,39.1,Jarrah Sheppard
+TK,2019,10/3/19,Nationals,U18,MK2 500m,Perth,3,Final,01:40.3,100.3,Jarrah Sheppard
+TK,2019,9/3/19,Nationals,U18,MK2 500m,Perth,1,Semi-Final,01:40.1,100.1,Jarrah Sheppard
+TK,2020,15/3/20,Nationals,U23,MK1 1000m,SIRC,7,Semi-Final,03:49.1,229.1,
+TK,2020,16/3/20,Nationals,U23,MK1 500m,SIRC,3,C Final,01:47.6,107.6,
+TK,2020,13/3/20,Nationals,U23,MK2 500m,SIRC,5,Heat,01:41.1,101.1,Byron Chadwick

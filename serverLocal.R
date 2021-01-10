@@ -1,13 +1,7 @@
-
-
-#from serverlocal
-
-
 server <- function(input, output) {
   v <- reactiveValues(value=NULL)
   #observeEvent(input$goButton, {
   #### Read data into a list ####
-  
   
   Athlete <-  fread("data/Athletev2.csv", header=TRUE, stringsAsFactors=FALSE)
   Benchmark <-fread("data/Benchmark.csv", header=TRUE, stringsAsFactors=FALSE)
